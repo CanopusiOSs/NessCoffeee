@@ -1,0 +1,6 @@
+framework module NessCoffeee {
+  umbrella header "NessCoffeee-umbrella.h"
+
+  export *
+  module * { export * }
+}

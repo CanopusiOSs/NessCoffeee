@@ -1,0 +1,16 @@
+PODS:
+  - NessCoffeee (0.1.0)
+
+DEPENDENCIES:
+  - NessCoffeee (from `../`)
+
+EXTERNAL SOURCES:
+  NessCoffeee:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NessCoffeee: 600025e7671ab38fcccb9357888db1cfcc6dc345
+
+PODFILE CHECKSUM: 2f251409185e59b1baaff37f6b52ec8e7f756183
+
+COCOAPODS: 1.11.3
